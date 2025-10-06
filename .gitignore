@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# WhatsApp Web.js session data
+.wwebjs_auth/
+
+# Any temporary files
+.DS_Store
+*.tmp
